@@ -201,7 +201,7 @@ Feel free to open issues and submit pull requests for any improvements or bugs.
 ---
 
 ## **Contact**
-For any inquiries or support, please contact [your-email@example.com].
+For any inquiries or support, please contact [rhythm00ahuja@gmail.com].
 
 
 ![Screenshot 2025-01-03 154117](https://github.com/user-attachments/assets/23420eff-89e4-49dd-9b35-afdc60d2fc15)
